@@ -1,1 +1,3 @@
 # claseSeba
+
+aprendiendo git
